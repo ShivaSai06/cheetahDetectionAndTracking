@@ -1,9 +1,10 @@
 
 
-````
+
 # 🐆 Cheetah Detection and Tracking System
 
-A real-time system to **detect** and **track cheetahs** in video streams using **YOLO** object detection and **DeepSORT** tracking. Built to support **wildlife conservation** and improve **public safety** in human-animal conflict zones.
+### Real-time cheetah **detection** and **tracking** using **YOLO** and **DeepSORT**, built for **wildlife conservation** and **public safety** in human-animal conflict zones.
+
 
 ---
 
